@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: "public/uploads" # Media files will be stored in the repo under public/uploads
+public_folder: "/uploads" # Folder path where uploaded files will be accessed, relative to the base of the built site
+
+collections:
+  - name: "Website" # Used in routes, e.g., /admin/collections/blog
+    label: "website" # Used in the UI
+    files:
+      - label: "main"
+        name: "Hauptdaten"
+        file: 'content/data.md'
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Author", name: "author", widget: "string"}
+          - {label: "Telefon", name: "telephone", widget: "string"}
+          - {label: "E-Mail", name: "email", widget: "string"}
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Footer", name: "footer", widget: "string"}
+          - {label: "CTA Button", name: "ctaButton", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
