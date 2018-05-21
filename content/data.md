@@ -1,9 +1,9 @@
 ---
+title: Profil
 author: Susanne Dannhauer
-telephone: 491709630960
+telephone: '+491709630960'
 email: s.dannhauer@t-online.de
 name: Susanne Dannhauer
-title: Profil
 footer: © 2018 Susanne Dannhauer
 ctaButton: Greifen Sie den Faden auf
 ---
