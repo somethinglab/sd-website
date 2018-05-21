@@ -18,7 +18,6 @@ function getWebsiteData () {
 }
 
 export default {
-
   getSiteData: () => ({
     title: 'React Static with Netlify CMS',
   }),

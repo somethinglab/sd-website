@@ -208,7 +208,7 @@
   
   /* slick styling */
   .slick-next:before, .slick-prev:before {
-    color: black;
+    color: black !important;
   }
   
   @media (max-width: 700px) {
