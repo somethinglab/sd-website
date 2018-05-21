@@ -88,7 +88,8 @@ export default {
         if (window.mounted) {
           window.executeSlick();
         }
-      `}} />
+      `,
+      }} />
     </Html>
   ),
 }
