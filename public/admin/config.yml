@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: TN1ck/some-website
+  repo: somethinglab/sd-website
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "public/uploads" # Media files will be stored in the repo under public/uploads
