@@ -9,7 +9,7 @@ ctaButton: Greifen Sie den Faden auf
 ---
 Als kreative Organisatorin und systemische Lösungsfinderin möchte ich Ihnen helfen, Ihre persönliche Entwicklung, Ihre berufliche Orientierung und den Weg zu Ihrer Vision zu entwickeln. 
 
-Durch meine langjährige Tätigkeit als Assistentin der Geschäftsführung in einem mittelständischen Unternehmen, wurde  ich immer häufiger Ansprechpartnerin für viele Belange – gleichermaßen im persönlichen Bereich sowie auch im professionellen Umfeld.  
+Durch meine langjährige Tätigkeit als Assistentin der Geschäftsführung in einem mittelständischen Unternehmen wurde  ich immer häufiger Ansprechpartnerin für viele Belange – gleichermaßen im persönlichen Bereich sowie auch im professionellen Umfeld.  
 
 Dieses „Hobby“ hat mich zu meinem Studium der Arbeitswissenschaft an die Leibniz Universität in Hannover geführt.
 
