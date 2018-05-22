@@ -7,17 +7,18 @@ name: Susanne Dannhauer
 footer: © 2018 Susanne Dannhauer
 ctaButton: Greifen Sie den Faden auf
 ---
+Als kreative Organisatorin und systemische Lösungsfinderin möchte ich Ihnen helfen, Ihre persönliche Entwicklung, Ihre berufliche Orientierung und den Weg zu Ihrer Vision zu entwickeln. 
 
-Als kreative Organisatorin und systematische Lösungsfinderin möchte ich Ihnen helfen, grundlegende Ziele, den Weg zu Ihrer Vision oder konkrete Strukturen für Ihre Projekte zu entwickeln.
+Durch meine langjährige Tätigkeit als Assistentin der Geschäftsführung in einem mittelständischen Unternehmen, wurde  ich immer häufiger Ansprechpartnerin für viele Belange – gleichermaßen im persönlichen Bereich sowie auch im professionellen Umfeld.  
 
-In meiner Position als persönliche Assistentin in einem mittelständischen Unternehmen bin ich Individualistin mit einem sehr guten Vertrauensverhältnis zu meinem „Team“ – dem Geschäftsführer. Nichtsdestotrotz bin ich im Unternehmen eng vernetzt und für alle sichtbar. Ich bin Ansprechpartnerin für viele Belange. Diskretion vorausgesetzt. Als Generalistin mit Schwerpunkt strategisch operatives Arbeiten beschäftige ich mich mit der Gestaltung von Prozessen und der Recherche von Zusammenhängen und deren Bewertung.
+Dieses „Hobby“ hat mich zu meinem Studium der Arbeitswissenschaft an die Leibniz Universität in Hannover geführt.
 
-Meine Fähigkeiten hinsichtlich Organisationsentwicklung, Projektmanagement und Multitasking habe ich kontinuierlich vertieft. Expertise im Change Management habe ich durch mein Studium der Arbeitswissenschaften erlangt und konnte u. a. den Generationswechsel im Unternehmen und unterschiedliche interne Veränderungsprozesse unterstützen.
+Durch das Studium mit dem Schwerpunkt Kommunikation, Kooperation und Beratung habe ich gelernt, über sensibles Führen, geschickter Moderation und systemischer Reflektion, Prozesse hilfreich zu begleiten und zu lenken.
 
-Kommunikation, Kooperation und Beratung – als mein zweites Studienfach – setze ich in meinem Arbeitsalltag täglich ein. Mein Ehrenamt als Vorsitzende des Meisterprüfungsausschusses im Friseurhandwerk erfordert sensibles Führen und Moderieren sowie die Herausforderung der Organisation und Koordination hinsichtlich der Abhängigkeit aller beteiligten Organisationen.
+Unter Anwendung der systemischen Beratung unterstütze ich Sie dabei, Klarheit über Ihre individuellen Ziele zu erlangen und diese zu erreichen, auch wenn sie in Ihrer Wahrnehmung noch diffus sind und in der Ferne liegen.  
 
+Meine Expertise im Hinblick auf Veränderungsprozesse habe ich durch mein zweites Studienfach – Change Management – erlangt. Ein spannendes Thema und eine echte Herausforderung, die ich gerne mit Ihnen gemeinsam annehmen möchte! Kreativität und Perspektivwechsel bringe ich mit…
 
-Der Umgang sowie Konfliktmanagement mit anspruchsvollen Kunden sowie Geschäftspartnern sind mir auf Geschäftsführerebene vertraut. Das nötige Durchsetzungsvermögen sowie Sorgfalt und Präzision, hohe Einsatzbereitschaft und Flexibilität um auch komplexe oder angespannte Situationen zu lösen, bringe ich mit.
+Meinen gesamten Erfahrungsschatz nutze ich jedoch besonders gerne, um die persönliche Entwicklung und berufliche Orientierung junger Erwachsener zu unterstützen. Eine gute Perspektive in die Zukunft konnte ich bereits mit einigen Studenten gemeinsam erarbeiten. 
 
-
-Meinen gesamten Erfahrungsschatz nutze ich besonders gerne, um die persönliche Entwicklung und berufliche Orientierung junger Erwachsener zu unterstützen.
+Ich freue mich, wenn Sie den Faden aufgreifen und wir die losen Enden gemeinsam verknüpfen können!
